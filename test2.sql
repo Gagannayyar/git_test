@@ -1,1 +1,0 @@
-select me from table where name = 'shahzia'
